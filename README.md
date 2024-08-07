@@ -26,7 +26,7 @@ This project is a PHP-based QR code generator that allows users to generate vari
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YashR34/php_qr_generator.git
+    git clone https://github.com/YashR34/php_qrcode.git
     cd php_qr_generator
     ```
 
@@ -42,7 +42,7 @@ This project is a PHP-based QR code generator that allows users to generate vari
 
 4. Copy the `phpqrcode` library to your project directory:
     ```sh
-    cp -r phpqrcode /path/to/xampp/htdocs/qr_generator/phpqrcode
+    cp -r phpqrcode /path/to/xampp/htdocs/qrcode/phpqrcode
     ```
 
 5. Ensure the GD extension is enabled in your XAMPP configuration:
